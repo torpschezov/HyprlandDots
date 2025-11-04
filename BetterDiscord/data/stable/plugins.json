@@ -1,0 +1,10 @@
+{
+    "ZeresPluginLibrary": true,
+    "CallTimeCounter": true,
+    "MessageLoggerV2": true,
+    "XenoLib": true,
+    "SplitLargeMessages": true,
+    "BDFDB": true,
+    "FreeEmojis": true,
+    "ServerCounter": true
+}
